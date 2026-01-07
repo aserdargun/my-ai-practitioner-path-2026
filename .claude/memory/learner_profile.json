@@ -1,0 +1,29 @@
+{
+  "level": "Beginner",
+  "start_date": "2026-01-01",
+  "goals": [
+    "Learn Python for data science",
+    "Build practical AI projects",
+    "Develop good coding habits"
+  ],
+  "constraints": {
+    "hours_per_week": 10,
+    "preferred_schedule": "evenings and weekends",
+    "timezone": "UTC"
+  },
+  "background": {
+    "programming_experience": "some",
+    "ml_experience": "none",
+    "education": "self-taught"
+  },
+  "preferences": {
+    "learning_style": "hands-on",
+    "feedback_frequency": "weekly",
+    "challenge_level": "moderate"
+  },
+  "current_state": {
+    "current_month": 1,
+    "current_week": 1,
+    "status": "active"
+  }
+}
